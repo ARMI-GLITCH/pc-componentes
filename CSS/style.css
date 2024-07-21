@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&family=Lilita+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Exo:ital,wght@0,100..900;1,100..900&family=Lilita+One&family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+
+body {
+  background-color: rgb(203, 204, 204);
+  font-size: px;
+  font-family: 'Black Ops One', cursive;
+}
+
+img {
+  height: 80px;
+  border: 3px solid black;
+  border-radius: 20px;
+}
+
+h1 {
+  border: 5px solid black;
+  margin: auto;
+  padding: 10px;
+  width: 95%;
+  background-color: beige;
+}
+
+.carrito-de-compras-y-calculo-de-productos {
+  margin-top: 10px;
+  justify-content: center;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.carrito-de-compras {
+  margin-right: 20px;
+  border: 5px solid black;
+  padding: 5px;
+}
+
+.calculo-de-productos {
+  margin-left: 20px;
+  border: 5px solid black;
+  padding: 5px;
+}
+
+.contenedor-de-productos {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid black;
+  padding: 20px;
+  background-color: rgb(253, 175, 72);
+  width: 95%;
+  margin-top: 10px;
+}
+
+.chasis {
+  background-color: azure;
+  display: flex;
+  text-align: center;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid black;
+  border-radius: 20px;
+  box-shadow: 10px 15px 10px;
+  padding: 10px;
+  width: 23%;
+}
+
+.nombre-precio {
+  text-align: center;
+  margin: 10px;
+}
+
+.disco-duro {
+  background-color: rgb(235, 103, 103);
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid black;
+  border-radius: 20px;
+  box-shadow: 10px 15px 10px;
+  padding: 10px;
+  width: 25%;
+}
+
+.nombre-precio {
+  text-align: center;
+  margin: 10px;
+}
+
+.disipadores {
+  background-color: rgb(235, 151, 103);
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid black;
+  border-radius: 20px;
+  box-shadow: 10px 15px 10px;
+  padding: 10px;
+  width: 25%;
+}
+
+.nombre-precio {
+  text-align: center;
+  margin: 10px;
+}
+
+.fuente-de-alimentacion {
+  background-color: rgb(151, 235, 103);
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid black;
+  border-radius: 20px;
+  box-shadow: 10px 15px 10px;
+  padding: 10px;
+  width: 30%;
+}
+
+.nombre-precio {
+  text-align: center;
+  margin: 10px;
+}
+
+.memoria-ram {
+  background-color: rgb(103, 235, 154);
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid black;
+  border-radius: 20px;
+  box-shadow: 10px 15px 10px;
+  padding: 10px;
+  width: 23%;
+}
+
+.nombre-precio {
+  text-align: center;
+  margin: 10px;
+}
+
+.placa-base {
+  background-color: rgb(176, 103, 235);
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid black;
+  border-radius: 20px;
+  box-shadow: 10px 15px 10px;
+  padding: 10px;
+  width: 25%;
+}
+
+.nombre-precio {
+  text-align: center;
+  margin: 10px;
+}
+
+.procesador {
+  background-color: rgb(235, 233, 103);
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid black;
+  border-radius: 20px;
+  box-shadow: 10px 15px 10px;
+  padding: 10px;
+  width: 23%;
+}
+
+.nombre-precio {
+  text-align: center;
+  margin: 10px;
+}
+
+.tarjeta-de-red {
+  background-color: rgb(103, 187, 235);
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid black;
+  border-radius: 20px;
+  box-shadow: 10px 15px 10px;
+  padding: 10px;
+  width: 23%;
+}
+
+.nombre-precio {
+  text-align: center;
+  margin: 10px;
+}
+
+.tarjeta-grafica {
+  background-color: rgb(235, 103, 103);
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid black;
+  border-radius: 20px;
+  box-shadow: 10px 15px 10px;
+  padding: 10px;
+  width: 23%;
+}
+
+.nombre-precio {
+  text-align: center;
+  margin: 10px;
+}
+
+
+
+
+
