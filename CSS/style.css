@@ -20,6 +20,15 @@ h1 {
   padding: 10px;
   width: 95%;
   background-color: beige;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px black;
+}
+
+h3 {
+  margin: auto;
+  border: 3px solid black;
+  padding: 5px;
+  background-color: rgb(107, 243, 107);
 }
 
 .carrito-de-compras-y-calculo-de-productos {
@@ -35,13 +44,39 @@ h1 {
 .carrito-de-compras {
   margin-right: 20px;
   border: 5px solid black;
-  padding: 5px;
+  padding: 10px;
+  background-color: rgb(253, 175, 72);
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px black;
+  display: grid;
+  grid-template-columns: 200px 200px 200px 200px;
+  column-gap: 20px;
+  text-align: center;
+}
+
+.contenedor-de-imagen {
+  background-color: aliceblue;
+  border: 5px solid black;
+  height: 900%;
+}
+
+.tus-productos {
+  width: 420%;
+  margin-top: 100px;
 }
 
 .calculo-de-productos {
   margin-left: 20px;
   border: 5px solid black;
-  padding: 5px;
+  padding: 10px;
+  height: 30%;
+  background-color: rgb(253, 175, 72);
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px black;
+}
+
+.input-y-button {
+  margin-top: 5px;
 }
 
 .contenedor-de-productos {
@@ -55,6 +90,8 @@ h1 {
   background-color: rgb(253, 175, 72);
   width: 95%;
   margin-top: 10px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px black;
 }
 
 .chasis {
@@ -140,7 +177,7 @@ h1 {
   border-radius: 20px;
   box-shadow: 10px 15px 10px;
   padding: 10px;
-  width: 23%;
+  width: 25%;
 }
 
 .nombre-precio {
